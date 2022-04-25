@@ -16,4 +16,4 @@ let maxSum = 0;
     console.log(`Array [${finalArray}] sums ${maxSum} `)
 }
 
-console.log(largestSubarraySum(array, 3))
+largestSubarraySum(array, 3)
